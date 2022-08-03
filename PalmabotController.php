@@ -8,13 +8,13 @@ class PalmabotController extends BaseController
 {
 
     /*COSITAS:
-        Setwebhook--> https://api.telegram.org/bot5250388873:AAFFjkX3lSAAjoYMPNkSTxMOxLMBFZF0z3w/setWebhook?url=https://tbot.comovas.es/palmabot
+        Setwebhook--> https://api.telegram.org/--/setWebhook?url=https://tbot.comovas.es/palmabot
 
 
-        Comprobarwebhook--> https://api.telegram.org/bot5250388873:AAFFjkX3lSAAjoYMPNkSTxMOxLMBFZF0z3w/getWebhookInfo 
+        Comprobarwebhook--> https://api.telegram.org/--/getWebhookInfo 
 
 
-        https://api.telegram.org/bot5250388873:AAFFjkX3lSAAjoYMPNkSTxMOxLMBFZF0z3w/setWebhook?url=https://tbot.comovas.es/palmabot
+        https://api.telegram.org/--/setWebhook?url=https://tbot.comovas.es/palmabot
 
     */
 
